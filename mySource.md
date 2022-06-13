@@ -46,6 +46,8 @@ games address:
 
 [I社中国网址发布页 (agbbc.com)](https://www.agbbc.com/)
 
+[老王资源部落最新网址,分享网最新网址 (laowang333.top)](https://www.laowang333.top/)
+
 source address:
 
 [琉璃神社★分享动漫快乐 (liuli.dog)](https://www.liuli.dog/)
@@ -59,3 +61,61 @@ source address:
 番剧：
 
 https://vidhub.cc/vodplay/
+
+
+
+
+
+
+
+##########################
+
+AI少女：
+
+链接：https://pan.xunlei.com/s/VN4GVLOn5AL6gsYACbBOcncoA1?pwd=5qhc# 复制这段内容后打开手机迅雷App，查看更方便
+
+解压码应该是ly136a8@zodgame
+
+
+
+#########################
+
+拔作：
+
+美少女万华镜1-4
+
+炎孕
+
+《Cleavage》《媚肉の香り》《DISCIPLINE》《MILK・ジャンキー2》《アネカノ》《新妻女教師》排名有先后
+
+更新一波:
+
+妻みぐい3
+
+巨乳人妻女教師催眠・携帯アプリでセックス中毒！
+《幼性反应》
+《绝顶性器大发明》
+《LOVELY×CATION》
+《Venus Blood》
+《Venus Blood Abyss》
+《Venus Blood FRONTIER》
+《梦魇骑士》
+《C.C桃色医院》
+《Dark Blue》
+《妹选抜☆総选挙》
+《精爆双姬》
+《该死的妹子》
+
+《妹调》
+
+
+
+
+
+########################
+
+调*，还是凌*还是后宫类型。
+
+人妻和NTR系列看ANIM
+
+凌*看Tinkerbell和Bishop等
