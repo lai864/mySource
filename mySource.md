@@ -16,16 +16,6 @@ Tracker Lists https://github.com/XIU2/TrackersListCollection/blob/master/README-
 
 
 
-团子翻译器：
-
-[团子翻译器-主页 (dango.cloud)](https://translator.dango.cloud/)
-
-账号：chen55555
-
-密码：a8536401
-
-邮箱：3291450631@qq.com
-
 
 
 安卓app官网：
@@ -40,13 +30,15 @@ games address:
 
 [封面-[ADV\]姉ちゃんのススメ[Chinese]-GGBases (galpic.xyz)](https://www.galpic.xyz/cover.so?id=104024)
 
-2DJ
-
 [AGREE动漫游戏联盟 (galgamezz.com)](http://www.galgamezz.com/)
 
 [I社中国网址发布页 (agbbc.com)](https://www.agbbc.com/)
 
 [老王资源部落最新网址,分享网最新网址 (laowang333.top)](https://www.laowang333.top/)
+
+[【新提醒】门户 - Powered by Discuz! (999cy.org)](https://999cy.org/portal.php)
+
+https://lt.atcyacg.com/plugin.php?id=nimba_newlogin&uid=74418
 
 source address:
 
@@ -56,11 +48,17 @@ source address:
 
 [NBhentai-绅士ACG动漫资源站！Hentai ACG(*￣︶￣)](https://nbhentai.info/)
 
+禁漫天堂：https://url365.club/3YeBdF
+
 [番号库 - 线上日本有码影视库 - 女优 - 番号库 (javlibs.xyz)](https://www.javlibs.xyz/star.php)
 
 番剧：
 
-https://vidhub.cc/vodplay/
+[4K影院-极客影院-专注NetFlix热播剧-最新蓝光电影-免费在线观看_专注动漫的门户网站！ (i8k.cc)](https://i8k.cc/)
+
+压缩包文件破解工具：
+
+[Advanced Archive Password Recovery 4.54.exe - 蓝奏云 (lanzoui.com)](https://wwx.lanzoui.com/icug02f)
 
 
 
@@ -88,8 +86,6 @@ AI少女：
 
 《Cleavage》《媚肉の香り》《DISCIPLINE》《MILK・ジャンキー2》《アネカノ》《新妻女教師》排名有先后
 
-更新一波:
-
 妻みぐい3
 
 巨乳人妻女教師催眠・携帯アプリでセックス中毒！
@@ -112,10 +108,35 @@ AI少女：
 
 
 
-########################
+######################
 
-调*，还是凌*还是后宫类型。
+整理的游戏列表：
 
-人妻和NTR系列看ANIM
+[【个人整理+分析】已汉化的Galgame大全 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/186288692)
 
-凌*看Tinkerbell和Bishop等
+
+
+前10名依次为：
+1.Fate/stay night
+2.沙耶の唄
+3.G線上の魔王
+4.STEINS；GATE（命运石之门）
+5.CLANNAD－クラナド－
+6.Doki Doki Literature Club!
+7.マブラヴ（Muv-Luv）
+8.マブラヴ　オルタネイティヴ（Muv-Luv Alternative）
+9.Ever17 -the out of infinity-
+10.リトルバスターズ！（Little Buster）
+
+
+
+
+
+梯子：
+
+[性价比还行的梯子 - 勿埋我心 (qian.blue)](https://www.qian.blue/archives/vpn.html)
+
+奇异的travel：[购物车 - 奇异のtravel (q1travel.cloud)](https://www.q1travel.cloud/cart.php)
+
+蜂巢：[蜂巢 (666yun.men)](https://666yun.men/#/plan)
+
