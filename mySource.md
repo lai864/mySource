@@ -12,11 +12,9 @@ qBittorrent 增强版 https://github.com/c0re100/qBittorrent-Enhanced-Edition/re
 
 Tracker Lists https://github.com/XIU2/TrackersListCollection/blob/master/README-ZH.md 
 
-我的TG群：https://t.me/blackcath0use
 
 
-
-
+一般情况下磁力下载工具还是迅雷好用，但可能会屏蔽资源
 
 安卓app官网：
 
@@ -26,15 +24,15 @@ https://mmlu.site/index_m.html
 
 https://s9.fan55.top/
 
-games address:
+games address: 按先后顺序
+
+[老王资源部落最新网址,分享网最新网址 (laowang333.top)](https://www.laowang333.top/)
 
 [封面-[ADV\]姉ちゃんのススメ[Chinese]-GGBases (galpic.xyz)](https://www.galpic.xyz/cover.so?id=104024)
 
-[AGREE动漫游戏联盟 (galgamezz.com)](http://www.galgamezz.com/)
-
 [I社中国网址发布页 (agbbc.com)](https://www.agbbc.com/)
 
-[老王资源部落最新网址,分享网最新网址 (laowang333.top)](https://www.laowang333.top/)
+[AGREE动漫游戏联盟 (galgamezz.com)](http://www.galgamezz.com/)
 
 [【新提醒】门户 - Powered by Discuz! (999cy.org)](https://999cy.org/portal.php)
 
@@ -49,6 +47,8 @@ source address:
 [NBhentai-绅士ACG动漫资源站！Hentai ACG(*￣︶￣)](https://nbhentai.info/)
 
 禁漫天堂：https://url365.club/3YeBdF
+
+哔咔app：https://download.picacn.xyz/?utm_source=picacn
 
 [番号库 - 线上日本有码影视库 - 女优 - 番号库 (javlibs.xyz)](https://www.javlibs.xyz/star.php)
 
@@ -72,7 +72,7 @@ AI少女：
 
 链接：https://pan.xunlei.com/s/VN4GVLOn5AL6gsYACbBOcncoA1?pwd=5qhc# 复制这段内容后打开手机迅雷App，查看更方便
 
-解压码应该是ly136a8@zodgame
+解压码是ly136a8@zodgame
 
 
 
@@ -87,6 +87,8 @@ AI少女：
 《Cleavage》《媚肉の香り》《DISCIPLINE》《MILK・ジャンキー2》《アネカノ》《新妻女教師》排名有先后
 
 妻みぐい3
+
+《民工女友》《人间残渣》
 
 巨乳人妻女教師催眠・携帯アプリでセックス中毒！
 《幼性反应》
@@ -132,11 +134,11 @@ AI少女：
 
 
 
-梯子：
+梯子：pc可用
 
 [性价比还行的梯子 - 勿埋我心 (qian.blue)](https://www.qian.blue/archives/vpn.html)
 
-奇异的travel：[购物车 - 奇异のtravel (q1travel.cloud)](https://www.q1travel.cloud/cart.php)
+10元/月/1024G：奇异的travel：[购物车 - 奇异のtravel (q1travel.cloud)](https://www.q1travel.cloud/cart.php)
 
-蜂巢：[蜂巢 (666yun.men)](https://666yun.men/#/plan)
+5元/月/30G：蜂巢：[蜂巢 (666yun.men)](https://666yun.men/#/plan)
 
