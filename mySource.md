@@ -40,7 +40,7 @@ https://s9.fan55.top/
 
 [封面-[ADV\]姉ちゃんのススメ[Chinese]-GGBases (galpic.xyz)](https://www.galpic.xyz/cover.so?id=104024)
 
-[I社中国网址发布页 (agbbc.com)](https://www.agbbc.com/)
+[I社中国网址发布页 (agbbc.com)](https://www.agbbc.com/)   发布网址：http://www.acgfabu.com
 
 [AGREE动漫游戏联盟 (galgamezz.com)](http://www.galgamezz.com/)
 
@@ -106,7 +106,7 @@ https://lt.atcyacg.com/plugin.php?id=nimba_newlogin&uid=74418
 
 《妹调》
 
-
+AI少女/甜心选择2/堕落玩偶/家族崩坏/VAM/恋活2/TOGETHER BnB/ 等
 
 
 
@@ -132,6 +132,12 @@ https://lt.atcyacg.com/plugin.php?id=nimba_newlogin&uid=74418
 
 
 
+RPG
+
+1. 魔王のハーレムは冒険者町にて
+
+
+
 
 
 ##### 梯子：pc可用
@@ -148,3 +154,62 @@ https://lt.atcyacg.com/plugin.php?id=nimba_newlogin&uid=74418
 
 1. 大小姐李跳跳：下载app用于跳过打开应用时的广告
 2. 白菜加奶油：每日分享游戏
+
+
+
+##### 工具
+
+1. 4k galgame，加强游戏画质：https://github.com/Blinue/Magpie/releases/
+
+​				可能需要下载：
+
+![](https://chen5-oss.oss-cn-beijing.aliyuncs.com/typora_photo/202206171647358.png)
+
+
+
+​		可以自行修改json配置：
+
+![](https://chen5-oss.oss-cn-beijing.aliyuncs.com/typora_photo/202206171648139.jpg)
+
+
+
+添加json配置，对应缩放模式，也就是添加一个自定义的缩放模式("name": "Anime4K_Ultra",)
+
+```json
+{
+    "name": "Anime4K_Ultra",
+    "effects": [
+      {
+        "effect": "Anime4K_Upscale_Denoise_L"
+      },
+      {
+        "effect": "Bicubic",
+        "scale": [
+          -1,
+          -1
+        ],
+        "paramB": 0.0,
+        "paramC": 0.5
+      },
+      {
+        "effect": "Anime4K_Restore_VL"
+      }
+    ]
+  },
+```
+
+![](https://chen5-oss.oss-cn-beijing.aliyuncs.com/typora_photo/202206171648039.jpg)
+
+
+
+​		有独显的话，要手动指定独显，不然默认使用集显:
+
+![](https://chen5-oss.oss-cn-beijing.aliyuncs.com/typora_photo/202206171648866.jpg)
+
+
+
+最后选择缩放模式，对应刚才的json配置("name": "Anime4K_Ultra",)
+
+也可以选择自带的缩放模式。
+
+![](https://chen5-oss.oss-cn-beijing.aliyuncs.com/typora_photo/202206171746819.png)
