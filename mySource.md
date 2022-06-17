@@ -1,5 +1,9 @@
 #### save
 
+
+
+##### 磁力
+
 磁力下载工具：[比特彗星 - 下载 (bitcomet.com)](https://www.bitcomet.com/en/downloads)
 
 
@@ -16,15 +20,21 @@ Tracker Lists https://github.com/XIU2/TrackersListCollection/blob/master/README-
 
 一般情况下磁力下载工具还是迅雷好用，但可能会屏蔽资源
 
-安卓app官网：
+
+
+##### 番剧和游戏地址
+
+* 安卓app官网
 
 https://mmlu.site/index_m.html
 
-磁力链接获取：
+永久地址：https://mmlu.pro
+
+* 磁力链接获取：
 
 https://s9.fan55.top/
 
-games address: 按先后顺序
+* games address: 按先后顺序
 
 [老王资源部落最新网址,分享网最新网址 (laowang333.top)](https://www.laowang333.top/)
 
@@ -38,7 +48,7 @@ games address: 按先后顺序
 
 https://lt.atcyacg.com/plugin.php?id=nimba_newlogin&uid=74418
 
-source address:
+* source address
 
 [琉璃神社★分享动漫快乐 (liuli.dog)](https://www.liuli.dog/)
 
@@ -52,7 +62,7 @@ source address:
 
 [番号库 - 线上日本有码影视库 - 女优 - 番号库 (javlibs.xyz)](https://www.javlibs.xyz/star.php)
 
-番剧：
+* 番剧
 
 [4K影院-极客影院-专注NetFlix热播剧-最新蓝光电影-免费在线观看_专注动漫的门户网站！ (i8k.cc)](https://i8k.cc/)
 
@@ -64,7 +74,7 @@ source address:
 
 
 
-
+##### 游戏推荐
 
 ##########################
 
@@ -134,11 +144,17 @@ AI少女：
 
 
 
-梯子：pc可用
+##### 梯子：pc可用
 
-[性价比还行的梯子 - 勿埋我心 (qian.blue)](https://www.qian.blue/archives/vpn.html)
+​	[性价比还行的梯子 - 勿埋我心 (qian.blue)](https://www.qian.blue/archives/vpn.html)
 
-10元/月/1024G：奇异的travel：[购物车 - 奇异のtravel (q1travel.cloud)](https://www.q1travel.cloud/cart.php)
+​		10元/月/1024G：奇异的travel：[购物车 - 奇异のtravel (q1travel.cloud)](https://www.q1travel.cloud/cart.php)
 
-5元/月/30G：蜂巢：[蜂巢 (666yun.men)](https://666yun.men/#/plan)
+​		5元/月/30G：蜂巢：[蜂巢 (666yun.men)](https://666yun.men/#/plan)
 
+
+
+##### 微信公众号
+
+1. 大小姐李跳跳：下载app用于跳过打开应用时的广告
+2. 白菜加奶油：每日分享游戏
