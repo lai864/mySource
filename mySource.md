@@ -76,16 +76,6 @@ https://lt.atcyacg.com/plugin.php?id=nimba_newlogin&uid=74418
 
 ##### 游戏推荐
 
-##########################
-
-AI少女：
-
-链接：https://pan.xunlei.com/s/VN4GVLOn5AL6gsYACbBOcncoA1?pwd=5qhc# 复制这段内容后打开手机迅雷App，查看更方便
-
-解压码是ly136a8@zodgame
-
-
-
 #########################
 
 拔作：
