@@ -24,6 +24,10 @@ Tracker Lists https://github.com/XIU2/TrackersListCollection/blob/master/README-
 
 ##### 番剧和游戏地址
 
+* steam官网
+
+https://store.steampowered.com/
+
 * 安卓app官网
 
 https://mmlu.site/index_m.html
@@ -104,7 +108,7 @@ https://lt.atcyacg.com/plugin.php?id=nimba_newlogin&uid=74418
 《精爆双姬》
 《该死的妹子》
 
-《妹调》
+《妹调教日记》
 
 AI少女/甜心选择2/堕落玩偶/家族崩坏/VAM/恋活2/TOGETHER BnB/ 等
 
@@ -158,6 +162,8 @@ RPG
 
 
 ##### 工具
+
+###### 	Magpic
 
 1. 4k galgame，加强游戏画质：https://github.com/Blinue/Magpie/releases/
 
@@ -213,3 +219,43 @@ RPG
 也可以选择自带的缩放模式。
 
 ![](https://chen5-oss.oss-cn-beijing.aliyuncs.com/typora_photo/202206171746819.png)
+
+
+
+
+
+###### 微星小飞机
+
+显卡差不用锁帧
+
+功能：游戏锁帧，有些游戏不锁帧会跑满显卡，但游戏画质并不会提升。
+
+1.**官网下载：[Afterburner (msi.com)](https://www.msi.com/Landing/afterburner/graphics-cards)，安装前先关闭防火墙和电脑管家，安装过程耐心等待，会弹出新的安装程序，会让你选择语言，点击安装**
+
+使用视频教程：[[【软件工具】史上最好用的硬件监控软件，微星Afterburner使用教程_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV124411L7L8?vd_source=051244cd86185f94a3c9d96978fe928b)](https://www.bilibili.com/s/video/BV1Ti4y1T7i5)
+
+2.在开始菜单栏，最近下载找到RivaTuner Statistics Server应用，打开，并不会弹出窗口，需要在工具栏里再次打开
+
+注意“Global”是对所有游戏设置，如果只需要限制一款游戏的帧数的话点击“Add”添加你的根目录的运行程序即可;即选中.exe启动游戏的文件
+
+![](https://chen5-oss.oss-cn-beijing.aliyuncs.com/typora_photo/202206181635598.png)
+
+3.配置Afterburner，点击帧率前的小勾，勾选在OSD显示，把text换成graph，就能看到实时的帧率。只有在游戏中才能看到OSD显示配置的参数
+
+![](https://chen5-oss.oss-cn-beijing.aliyuncs.com/typora_photo/202206181835603.png)
+
+
+
+一般只有在测试和查看当前游戏具体占用配置时才打开Afterburner和RivaTuner Statistics Server，配置后，玩游戏时不用打开。
+
+
+
+4.在OSD显示
+
+参数说明：
+
+usage： 使用率
+
+clock：使用频率
+
+![](https://chen5-oss.oss-cn-beijing.aliyuncs.com/typora_photo/202206181918041.png)
