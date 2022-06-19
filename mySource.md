@@ -60,7 +60,11 @@ https://lt.atcyacg.com/plugin.php?id=nimba_newlogin&uid=74418
 
 [NBhentai-绅士ACG动漫资源站！Hentai ACG(*￣︶￣)](https://nbhentai.info/)
 
-禁漫天堂：https://url365.club/3YeBdF
+禁漫天堂发布页：https://jmcomic.bet
+
+https://url365.club/3YeBdF
+
+ https://jmcomic.asia/?shunt=2
 
 哔咔app：https://download.picacn.xyz/?utm_source=picacn
 
@@ -226,7 +230,7 @@ RPG
 
 ###### 微星小飞机
 
-显卡差不用锁帧
+游戏一般帧率为60就可以了，大于60不会有太大问题，还会白白占用电脑运行资源，造成电脑升温，风扇转动产生噪音。
 
 功能：游戏锁帧，有些游戏不锁帧会跑满显卡，但游戏画质并不会提升。
 
@@ -250,7 +254,7 @@ RPG
 
 
 
-4.在OSD显示
+4.在OSD显示，部分游戏不会显示
 
 参数说明：
 
