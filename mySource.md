@@ -43,6 +43,7 @@ https://s9.fan55.top/
 [老王资源部落最新网址,分享网最新网址 (laowang333.top)](https://www.laowang333.top/)
 
 [封面-[ADV\]姉ちゃんのススメ[Chinese]-GGBases (galpic.xyz)](https://www.galpic.xyz/cover.so?id=104024)
+https://fabu.xacg.club/
 
 [I社中国网址发布页 (agbbc.com)](https://www.agbbc.com/)   发布网址：http://www.acgfabu.com
 
@@ -230,7 +231,7 @@ RPG
 
 ###### 微星小飞机
 
-游戏一般帧率为60就可以了，大于60不会有太大问题，还会白白占用电脑运行资源，造成电脑升温，风扇转动产生噪音。
+游戏一般帧率为60就可以了，大于60不会有太大区别，还会白白占用电脑运行资源，造成电脑升温，风扇转动产生噪音。
 
 功能：游戏锁帧，有些游戏不锁帧会跑满显卡，但游戏画质并不会提升。
 
